@@ -1,0 +1,19 @@
+.odd {
+  background-color: #f18282;
+  font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#special-p {
+  font-size: 24px;
+}
+
+#p-2 {
+  font-size: 36px;
+  color: blue;
+}
+
+#p-4 {
+  background-color: #61e46c;
+  font-size: 24px;
+  font-weight: bold;
+}
